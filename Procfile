@@ -1,1 +1,1 @@
-web: node swagger-ui.json
+web: exec start.sh 
