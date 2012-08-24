@@ -1,1 +1,1 @@
-web: exec start.sh 
+web: exec ./start.sh 
